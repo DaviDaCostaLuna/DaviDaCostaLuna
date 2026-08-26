@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e293b,100:06b6d4&text=Gabriel%20Fabiano&fontColor=ffffff&fontAlignY=38&fontSize=42&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e293b,100:06b6d4&text=Davi%20Luna&fontColor=ffffff&fontAlignY=38&fontSize=42&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Python+%7C+SQL;Aprendendo+Java+%2F+Node.js;Sempre+construindo+algo+novo" />
 
@@ -17,7 +17,7 @@
 Sou estudante de **Ciência da Computação**, com foco atual em **Python** e **SQL** — minha base para conseguir uma primeira oportunidade na área. Em paralelo, estou aprendendo **Java** e dando os primeiros passos em **Node.js**, mirando em backend e arquitetura de sistemas mais robustos no médio prazo.
 
 ```python
-class Gabriel:
+class Davi:
     def __init__(self):
         self.formacao = "Ciência da Computação"
         self.foco_atual = ["Python", "SQL"]
@@ -87,13 +87,12 @@ class Gabriel:
 
 <br>
 
-## 📫 Contato
-
+📫 Contato
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Fabiano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fabiano-b17145357/)
-[![Gmail](https://img.shields.io/badge/-gabrielaguiar0410%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielaguiar0410@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Davi%20Luna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-da-costa-alves-luna-1b1b54366/)
+[![Gmail](https://img.shields.io/badge/-davigaroto09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davigaroto09@gmail.com)
 
-*"A melhor forma de prever o futuro é construí-lo."*
+"A melhor forma de prever o futuro é construí-lo."
 
 </div>
